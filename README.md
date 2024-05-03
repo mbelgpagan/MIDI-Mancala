@@ -10,7 +10,6 @@ The electronic components consist of a Teensy 4.1, twelve Light Dependent Resist
 ![mancala_pic1](https://github.com/mbelgpagan/MIDI-Mancala/assets/157041254/5c360ea8-f9c2-482a-b776-f5fd4c56778e)
 ![mancala_pic2](https://github.com/mbelgpagan/MIDI-Mancala/assets/157041254/69f13a44-79ea-443a-abd0-36755686f1f4)
 
-##Circuit
 The electronics inside the box are composed of a Teensy 4.1 microcontroller, two potentiometers, and twelve LDR light sensor modules. 
 ![IMG_9924](https://github.com/mbelgpagan/MIDI-Mancala/assets/157041254/a0d30f91-bca2-4d89-a7b2-fbf94ba647f6)
 
